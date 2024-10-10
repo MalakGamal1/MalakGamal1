@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MalakGamal1
+- 👋 Hi, I’m Malak Gamal
 - 👀 I’m interested in technologies 
-- 🌱 I’m currently learning Flutter app
+- 🌱 I’m currently learning Flutter Framework
 - 💞️ I’m looking to collaborate on Microsoft 
 - 📫 How to reach me ...
 
