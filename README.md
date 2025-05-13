@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malak Gamal
 - 👀 I’m interested in technologies 
-- 🌱 I’m currently learning Flutter Framework
-- 💞️ I’m looking to collaborate on Microsoft 
+- 🌱 I’m currently learning Network security
+- 💞️ I’m looking to collaborate on Cisco 
 - 📫 How to reach me ...
 
 <!---
